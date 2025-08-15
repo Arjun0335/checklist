@@ -4,6 +4,7 @@ import TabNavigation from './TabNavigation';
 import SubjectTab from './SubjectTab';
 import syllabusData from './syllabusData';
 import TaskViewer from './TaskViewer'; // New Component
+import tasksData from './tasksData';
 import './styles.css';
 
 function HomePage() {
